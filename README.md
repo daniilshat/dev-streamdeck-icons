@@ -1,8 +1,17 @@
-# Dev Elgato Stream Deck Icons
+<p align="center">
+<img width="150" height="150" alt="Dev Icon Logo" src="https://raw.githubusercontent.com/daniilshat/dev-streamdeck-icons/main/icon-b.png">
+</p>
+
+<h1 align="center">Dev Stream Deck Icons</h1>
+
+<img align="center" src="https://raw.githubusercontent.com/daniilshat/dev-streamdeck-icons/main/previews/preview-1.png"/>
 
 A collection of Dev Icons specifically designed for developers, for use on Elgato Stream Deck.
 
 ## Compatibility
+
+<img align="center" src="https://raw.githubusercontent.com/daniilshat/dev-streamdeck-icons/main/previews/preview-3.png"/>
+
 Works with:
 - [Stream Deck MK.2](https://www.elgato.com/ru/en/p/stream-deck-mk2-black)
 - [Stream Deck Plus](https://www.elgato.com/ru/en/p/stream-deck-plus-black)
