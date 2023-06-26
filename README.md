@@ -21,6 +21,17 @@ Works with:
 
 ## Download
 
+### Standalone use
+You can download icons (`.png`) in [Latest Releases](https://github.com/daniilshat/dev-streamdeck-icons/releases), unzip folder and use with Elgato Stream Deck Application.
+
+#### How to use in Elgato Stream Deck Application
+
+Click "Set from File" and select icon from folder:
+<img align="center" src="https://raw.githubusercontent.com/daniilshat/dev-streamdeck-icons/main/readme-img/download-1.png"/>
+
+Result:
+<img align="center" src="https://raw.githubusercontent.com/daniilshat/dev-streamdeck-icons/main/readme-img/download-2.png"/>
+
 ## Icons Preview
 
 ### macOS Keys
