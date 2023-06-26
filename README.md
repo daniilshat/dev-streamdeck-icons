@@ -477,7 +477,6 @@ Raspberry Pi:
     <img src="https://raw.githubusercontent.com/daniilshat/dev-streamdeck-icons/main/icons/rpi-plain-light.png" width="60" />
     <img src="https://raw.githubusercontent.com/daniilshat/dev-streamdeck-icons/main/icons/rpi-plain-dark.png" width="60" />
     <img src="https://raw.githubusercontent.com/daniilshat/dev-streamdeck-icons/main/icons/rpi-color-light.png" width="60" />
-    <img src="https://raw.githubusercontent.com/daniilshat/dev-streamdeck-icons/main/icons/rpi-color-dark.png" width="60" />
 </div>
 
 Tower:
@@ -522,8 +521,8 @@ Electron:
 
 Firebase:
 <div>
-    <img src="https://raw.githubusercontent.com/daniilshat/dev-streamdeck-icons/main/icons/firebase-plain-light.png" width="60" />
-    <img src="https://raw.githubusercontent.com/daniilshat/dev-streamdeck-icons/main/icons/firebase-plain-dark.png" width="60" />
+    <img src="https://raw.githubusercontent.com/daniilshat/dev-streamdeck-icons/main/icons/firebase-plane-light.png" width="60" />
+    <img src="https://raw.githubusercontent.com/daniilshat/dev-streamdeck-icons/main/icons/firebase-plane-dark.png" width="60" />
     <img src="https://raw.githubusercontent.com/daniilshat/dev-streamdeck-icons/main/icons/firebase-color-light.png" width="60" />
     <img src="https://raw.githubusercontent.com/daniilshat/dev-streamdeck-icons/main/icons/firebase-color-dark.png" width="60" />
 </div>
@@ -649,9 +648,9 @@ NodeJS Logo:
 NodeJS Wordmark:
 <div>
     <img src="https://raw.githubusercontent.com/daniilshat/dev-streamdeck-icons/main/icons/nodejs-wordmark-plain-light.png" width="60" />
-    <img src="https://raw.githubusercontent.com/daniilshat/dev-streamdeck-icons/main/icons/nodejs-wordmark-plain-dark.png" width="60" />
-    <img src="https://raw.githubusercontent.com/daniilshat/dev-streamdeck-icons/main/icons/nodejs-wordmark-color-light.png" width="60" />
-    <img src="https://raw.githubusercontent.com/daniilshat/dev-streamdeck-icons/main/icons/nodejs-wordmark-color-dark.png" width="60" />
+    <img src="https://raw.githubusercontent.com/daniilshat/dev-streamdeck-icons/main/icons/nodejs-wordmark-plain-light-1.png" width="60" />
+    <img src="https://raw.githubusercontent.com/daniilshat/dev-streamdeck-icons/main/icons/nodejs-wordmark-plain-light-2.png" width="60" />
+    <img src="https://raw.githubusercontent.com/daniilshat/dev-streamdeck-icons/main/icons/nodejs-wordmark-plain-light-3.png" width="60" />
 </div>
 
 PostgreSQL:
@@ -807,4 +806,4 @@ YouTube:
 
 All trademarks, logos and brand names are the property of their respective owners. All company, product and service names used in this application are for identification purposes only. Use of these names, trademarks and brands does not imply endorsement.
 
-Works under licenses
+Works under [MIT License](https://github.com/daniilshat/dev-streamdeck-icons/blob/main/LICENSE).
